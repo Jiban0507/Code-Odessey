@@ -101,6 +101,62 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 | 048 | [Notes App (LocalStorage)](https://notes-app-lake-five.vercel.app/) | LocalStorage API, data persistence, CRUD | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/p\Project-48) |
 | 049 | [Accordion Component](https://according-component.vercel.app/) | Toggle functionality, dynamic content, UI | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-49) |
 | 050 | [Tabs Component](https://tabcomponent.vercel.app/) | Tab switching, content display, navigation | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-50) |
+| 051 | Modal Popup | Overlay, show/hide logic, event handling | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-51) |
+| 052 | Image Slider | Image rotation, navigation, autoplay | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-52) |
+| 053 | Simple Carousel | Carousel logic, animations, controls | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-53) |
+| 054 | FAQ Toggle | Expand/collapse, dynamic content, icons | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-54) |
+| 055 | Star Rating Widget | Click handling, visual feedback, ratings | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-55) |
+| 056 | Word Counter | String manipulation, real-time updates, stats | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-56) |
+| 057 | Character Counter | Text analysis, input events, display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-57) |
+| 058 | Email Validator | Regex patterns, validation logic, feedback | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-58) |
+| 059 | Password Generator | Random generation, string building, security | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-59) |
+| 060 | Random Username Generator | String concatenation, random words, creativity | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-60) |
+| 061 | Simple Quiz App | Quiz logic, score tracking, questions array | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-61) |
+| 062 | Yes/No Game | Decision tree, game flow, user interaction | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-62) |
+| 063 | Rock Paper Scissors | Game logic, computer AI, win conditions | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-63) |
+| 064 | Memory Flip Game (Basic) | Game state, matching logic, grid layout | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-64) |
+| 065 | Keyboard Event Tester | Event listeners, key detection, display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-65) |
+| 066 | Mouse Tracker | Mouse events, coordinates, real-time tracking | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-66) |
+| 067 | Scroll Progress Bar | Scroll events, progress calculation, indicator | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-67) |
+| 068 | Theme Switcher | Multiple themes, CSS variables, persistence | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-68) |
+| 069 | Alert Notification UI | Notifications, dismiss functionality, timing | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-69) |
+| 070 | Simple Chat UI (Static) | Chat layout, message bubbles, conversation flow | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-70) |
+
+
+### Mini Practice Projects (71-100)
+
+| ID | Project Name | Learning Outcome | Status |
+|----|--------------|------------------|--------|
+| 071 | Weather UI (Static) | Weather layouts, icons, data display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-71) |
+| 072 | Music Player UI | Player controls, progress bars, playlists | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-72) |
+| 073 | Video Player UI | Video controls, custom players, fullscreen | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-73) |
+| 074 | Poll Voting UI | Voting interface, results display, percentages | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-74) |
+| 075 | Feedback Form | Form design, ratings, text feedback | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-75) |
+| 076 | Survey Page | Multiple questions, radio buttons, checkboxes | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-76) |
+| 077 | Online Menu Page | Menu sections, item cards, prices | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-77) |
+| 078 | Event Invitation Page | Event details, RSVP form, date/time | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-78) |
+| 079 | Profile Card Generator | User profiles, avatar, social links | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-79) |
+| 080 | Badge Generator | Dynamic badges, SVG, customization | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-80) |
+| 081 | CSS Animation Showcase | Various animations, keyframes, effects | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-81) |
+| 082 | Login Validation Demo | Real-time validation, error handling, UX | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-82) |
+| 083 | Simple E-commerce UI | Product pages, cart icon, checkout flow | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-83) |
+| 084 | Pricing Calculator | Dynamic pricing, options, total calculation | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-84) |
+| 085 | Random Joke Generator | API calls or local data, humor display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-85) |
+| 086 | Virtual Keyboard | On-screen keyboard, click handling, input | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-86) |
+| 087 | Sticky Notes Board | Draggable notes, create/delete, positioning | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-87) |
+| 088 | Scroll Reveal Animations | Intersection Observer, reveal effects, scroll | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-88) |
+| 089 | CSS Art Project | Pure CSS art, creativity, advanced styling | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-89) |
+| 090 | Social Media Post UI | Post cards, likes, comments, shares | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-90) |
+| 091 | Notification Bell UI | Notification icon, dropdown, unread count | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-91) |
+| 092 | Search Bar UI | Search input, suggestions, autocomplete | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-92) |
+| 093 | Filter List App | Filtering logic, categories, search | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-93) |
+| 094 | Sortable List | Sorting algorithms, array methods, display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-94) |
+| 095 | Drag & Drop Demo | Drag API, drop zones, event handling | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-95) |
+| 096 | Simple Dashboard UI | Dashboard layout, widgets, data cards | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-96) |
+| 097 | Portfolio v2 | Enhanced portfolio, animations, projects | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-97) |
+| 098 | Blog Page v2 | Improved blog, categories, tags | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/yourusername/project-98) |
+| 099 | Website Clone (Static) | Replicate existing site, learning from real sites | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-99) |
+| 100 | Mini Project Collection Page | Showcase all projects, gallery, navigation | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-100) |
 
 ---
 
@@ -133,7 +189,7 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 ## 📊 Progress Tracking
 
 ### Overall Progress
-- **Beginner Projects:** 30/100 completed
+- **Beginner Projects:** 43/100 completed
 - **Intermediate Projects:** 2/100 completed
 - **Expert Projects:** 0/100 completed
 - **Advanced Expert Projects:** 0/100 completed
