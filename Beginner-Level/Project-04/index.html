@@ -1,0 +1,210 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>005 · Restaurant Website</title>
+  <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,600;1,400;1,600&family=Jost:wght@300;400;500&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <div class="logo">La <span>Mera</span></div>
+    <ul>
+      <li><a href="#">Story</a></li>
+      <li><a href="#">Menu</a></li>
+      <li><a href="#">Events</a></li>
+      <li><a href="#" class="reserve-btn">Reserve a Table</a></li>
+    </ul>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-bg"></div>
+    <div class="hero-tag">Est. 1997 · Mexico City · Fine Dining</div>
+    <div class="hero-divider"></div>
+    <h1>Where fire<br>meets <em>tradition</em></h1>
+    <p class="hero-sub">Authentic Mexican cuisine, elevated through heritage recipes and the finest seasonal ingredients.</p>
+    <div class="hero-actions">
+      <a href="#" class="btn-rust">Reserve a Table</a>
+      <a href="#" class="btn-outline-warm">View Menu</a>
+    </div>
+    <div class="scroll-hint">
+      <div class="scroll-line"></div>
+      Scroll
+    </div>
+  </section>
+
+  <section class="about">
+    <div class="about-img">
+      <div class="about-img-text">★</div>
+      <div class="about-badge">Fine Dining Since 1997</div>
+    </div>
+    <div class="about-content">
+      <div class="section-tag">◆ Our Story</div>
+      <h2>Rooted in culture,<br>refined by <em>passion</em></h2>
+      <p>La Mera was born from a simple conviction: that Mexican cuisine deserves the same reverence as any great culinary tradition. Chef Valentina Cruz spent years tracing forgotten recipes across Oaxaca, Yucatán, and Veracruz to bring them to your table.</p>
+      <p>Every dish is a conversation between past and present — ancient chiles alongside modern technique, grandmother's mole with a chef's precision.</p>
+      <div class="about-facts">
+        <div>
+          <div class="fact-num">27</div>
+          <div class="fact-label">Years of Excellence</div>
+        </div>
+        <div>
+          <div class="fact-num">14</div>
+          <div class="fact-label">Regional Cuisines</div>
+        </div>
+        <div>
+          <div class="fact-num">3★</div>
+          <div class="fact-label">Michelin Stars</div>
+        </div>
+        <div>
+          <div class="fact-num">95%</div>
+          <div class="fact-label">Local Sourced</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="menu">
+    <div class="menu-header">
+      <div class="section-tag">◆ Curated Selection</div>
+      <h2>Tonight's <em>Menu</em></h2>
+      <p>Seasonal ingredients, ancient techniques, extraordinary results.</p>
+    </div>
+    <div class="menu-tabs">
+      <button class="menu-tab active">Starters</button>
+      <button class="menu-tab">Mains</button>
+      <button class="menu-tab">Desserts</button>
+      <button class="menu-tab">Drinks</button>
+    </div>
+    <div class="menu-grid">
+      <div class="menu-item">
+        <div class="menu-num">01.</div>
+        <div class="menu-info">
+          <div class="menu-name">Tlayuda de Tasajo <span>$24</span></div>
+          <div class="menu-desc">Open-faced tortilla, Oaxacan black beans, air-dried beef, Oaxacan cheese, hoja santa oil.</div>
+        </div>
+      </div>
+      <div class="menu-item">
+        <div class="menu-num">02.</div>
+        <div class="menu-info">
+          <div class="menu-name">Sopa de Lima <span>$18</span></div>
+          <div class="menu-desc">Yucatecan lime broth, shredded chicken, crispy tortilla strips, habanero oil.</div>
+        </div>
+      </div>
+      <div class="menu-item">
+        <div class="menu-num">03.</div>
+        <div class="menu-info">
+          <div class="menu-name">Aguachile Negro <span>$28</span></div>
+          <div class="menu-desc">Sinaloan black aguachile, tiger prawns, avocado, cucumber, charred chile negro.</div>
+        </div>
+      </div>
+      <div class="menu-item">
+        <div class="menu-num">04.</div>
+        <div class="menu-info">
+          <div class="menu-name">Caldo Tlalpeño <span>$16</span></div>
+          <div class="menu-desc">Rich broth, chickpeas, chicken, chipotle, epazote. A soul-warming classic.</div>
+        </div>
+      </div>
+      <div class="menu-item">
+        <div class="menu-num">05.</div>
+        <div class="menu-info">
+          <div class="menu-name">Tostada de Atún <span>$22</span></div>
+          <div class="menu-desc">Seared bluefin tuna, avocado mousse, serrano ponzu, microgreens.</div>
+        </div>
+      </div>
+      <div class="menu-item">
+        <div class="menu-num">06.</div>
+        <div class="menu-info">
+          <div class="menu-name">Esquites de Mar <span>$20</span></div>
+          <div class="menu-desc">Corn elotes, sea urchin butter, cotija foam, dried shrimp, chile piquín.</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <section class="reservation">
+    <div class="res-content">
+      <div class="section-tag">◆ Book a Table</div>
+      <h2>Dine with us,<br><em>tonight</em></h2>
+      <p>We seat a limited number of guests each evening to ensure every table receives our full attention. Reserve early to secure your experience.</p>
+      <div class="res-details">
+        <div class="res-detail">Open Tuesday – Sunday, 6 PM – 11 PM</div>
+        <div class="res-detail">Private dining available for groups of 8+</div>
+        <div class="res-detail">Dress code: Smart casual</div>
+      </div>
+    </div>
+    <form class="res-form" onsubmit="return false;">
+      <div class="form-row">
+        <div class="form-group">
+          <label>First Name</label>
+          <input type="text" placeholder="Valentina"/>
+        </div>
+        <div class="form-group">
+          <label>Last Name</label>
+          <input type="text" placeholder="Cruz"/>
+        </div>
+      </div>
+      <div class="form-group">
+        <label>Email Address</label>
+        <input type="email" placeholder="you@example.com"/>
+      </div>
+      <div class="form-row">
+        <div class="form-group">
+          <label>Date</label>
+          <input type="date"/>
+        </div>
+        <div class="form-group">
+          <label>Guests</label>
+          <select>
+            <option>1 Guest</option>
+            <option selected>2 Guests</option>
+            <option>3 Guests</option>
+            <option>4 Guests</option>
+            <option>5+ Guests</option>
+          </select>
+        </div>
+      </div>
+      <button type="submit" class="btn-rust" style="border:none;cursor:pointer;padding:1.1rem;font-size:0.82rem;letter-spacing:0.12em;text-transform:uppercase;">Reserve My Table</button>
+    </form>
+  </section>
+
+  <footer>
+    <div>
+      <div class="footer-logo">La <span>Mera</span></div>
+      <div class="footer-tagline">Fine Mexican dining rooted in<br>tradition, elevated by craft.</div>
+    </div>
+    <div class="footer-col">
+      <h4>Navigate</h4>
+      <ul>
+        <li><a href="#">Our Story</a></li>
+        <li><a href="#">The Menu</a></li>
+        <li><a href="#">Reservations</a></li>
+        <li><a href="#">Private Events</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Hours</h4>
+      <ul>
+        <li><a href="#">Tue–Thu: 6–10 PM</a></li>
+        <li><a href="#">Fri–Sat: 6–11 PM</a></li>
+        <li><a href="#">Sunday: 5–9 PM</a></li>
+      </ul>
+    </div>
+    <div class="footer-col">
+      <h4>Contact</h4>
+      <ul>
+        <li><a href="#">+1 (415) 555-0174</a></li>
+        <li><a href="#">hello@lamera.co</a></li>
+        <li><a href="#">148 Valencia St, SF</a></li>
+      </ul>
+    </div>
+  </footer>
+  <div class="footer-bottom">
+    <span>© 2025 La Mera. All rights reserved.</span>
+    <span>Code Odyssey · Project 005 · Restaurant Website</span>
+  </div>
+
+</body>
+</html>

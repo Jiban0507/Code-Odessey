@@ -47,13 +47,13 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 |----|--------------|------------------|--------|
 | 001 | [Personal Portfolio Website](https://project-01-sigma-eight.vercel.app/) | HTML structure, CSS styling, responsive design | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-01) |
 | 002 | [Resume Builder (Static)](https://resume-builder-ashy-seven.vercel.app/) | Forms, layout design, print CSS | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-02) |
-| 003 | Landing Page | Hero sections, CTA buttons, modern design | [![Pending](https://img.shields.io/badge/Status-Working-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-03) |
-| 004 | Restaurant Website | Multi-page layout, image optimization | [![Pending](https://img.shields.io/badge/Status-Working-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-04) |
-| 005 | Coffee Shop Website | CSS Grid, menu layouts, typography | [![Pending](https://img.shields.io/badge/Status-Pending-orange)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-05) |
-| 006 | Product Showcase Page | Product cards, hover effects, transitions | [![Pending](https://img.shields.io/badge/Status-Pending-orange)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-06) |
-| 007 | Blog Homepage | Article cards, sidebar layout, readability | [![Pending](https://img.shields.io/badge/Status-Pending-orange)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-07) |
-| 008 | Pricing Table | Table design, comparison layouts, buttons | [![Pending](https://img.shields.io/badge/Status-Pending-orange)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-08) |
-| 009 | Image Gallery | Grid layout, lightbox effect, thumbnails | [![Pending](https://img.shields.io/badge/Status-Pending-orange)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-09) |
+| 003 | Landing Page | Hero sections, CTA buttons, modern design | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-03) |
+| 004 | Restaurant Website | Multi-page layout, image optimization | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-04) |
+| 005 | Coffee Shop Website | CSS Grid, menu layouts, typography | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-05) |
+| 006 | Product Showcase Page | Product cards, hover effects, transitions | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-06) |
+| 007 | Blog Homepage | Article cards, sidebar layout, readability | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-07) |
+| 008 | Pricing Table | Table design, comparison layouts, buttons | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-08) |
+| 009 | Image Gallery | Grid layout, lightbox effect, thumbnails | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-09) |
 | 010 | [Login Page UI](https://login-page-ui-silk.vercel.app) | Form design, input styling, validation UI | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-10) |
 | 011 | [Signup Page UI](https://code-odessey.vercel.app) | Multi-field forms, password fields, UX | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-11) |
 | 012 | [Contact Form](https://code-odessey-e3q3.vercel.app) | Form elements, textarea, submit buttons | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-12) |
@@ -151,10 +151,10 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 | 092 | Search Bar UI | Search input, suggestions, autocomplete | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-92) |
 | 093 | Filter List App | Filtering logic, categories, search | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-93) |
 | 094 | Sortable List | Sorting algorithms, array methods, display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-94) |
-| 095 | Drag & Drop Demo | Drag API, drop zones, event handling | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-95) |
-| 096 | Simple Dashboard UI | Dashboard layout, widgets, data cards | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-96) |
-| 097 | Portfolio v2 | Enhanced portfolio, animations, projects | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-97) |
-| 098 | Blog Page v2 | Improved blog, categories, tags | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/yourusername/project-98) |
+| 095 | Drag & Drop Demo | Drag API, drop zones, event handling | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-95) |
+| 096 | Simple Dashboard UI | Dashboard layout, widgets, data cards | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-96) |
+| 097 | Portfolio v2 | Enhanced portfolio, animations, projects | [![Pending](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-97) |
+| 098 | Blog Page v2 | Improved blog, categories, tags | [![Pending](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/yourusername/Project-98) |
 | 099 | [Website Clone (Static)](https://website-clone-static.vercel.app/) | Replicate existing site, learning from real sites | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-99) |
 | 100 | [Mini Project Collection Page](https://miniprojectcollectionpage.vercel.app/) | Showcase all projects, gallery, navigation | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-100) |
 
@@ -189,7 +189,7 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 ## 📊 Progress Tracking
 
 ### Overall Progress
-- **Beginner Projects:** 43/100 completed
+- **Beginner Projects:** 54/100 completed
 - **Intermediate Projects:** 2/100 completed
 - **Expert Projects:** 0/100 completed
 - **Advanced Expert Projects:** 0/100 completed

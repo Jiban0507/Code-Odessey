@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>008 · Blog Homepage</title>
+  <link href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:ital,wght@0,400;0,700;1,400&family=Manrope:wght@300;400;500;600&display=swap" rel="stylesheet"/>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <nav>
+    <div class="nav-inner">
+      <div class="logo">The <span>Margin</span></div>
+      <ul>
+        <li><a href="#">Technology</a></li>
+        <li><a href="#">Design</a></li>
+        <li><a href="#">Culture</a></li>
+        <li><a href="#">Science</a></li>
+        <li><a href="#" class="sub-btn">Subscribe</a></li>
+      </ul>
+    </div>
+  </nav>
+
+  <div class="ticker">
+    <div class="ticker-inner">
+      <span>Latest</span> <span class="dot">·</span> <span>AI & the Future of Work</span> <span class="dot">·</span>
+      <span>The Death of Minimalism</span> <span class="dot">·</span> <span>Quantum Computing, Explained</span> <span class="dot">·</span>
+      <span>Climate Crisis: The 2025 Report</span> <span class="dot">·</span> <span>Why We Sleep Worse Now</span> <span class="dot">·</span>
+      <!-- Duplicate for seamless loop -->
+      <span>Latest</span> <span class="dot">·</span> <span>AI & the Future of Work</span> <span class="dot">·</span>
+      <span>The Death of Minimalism</span> <span class="dot">·</span> <span>Quantum Computing, Explained</span> <span class="dot">·</span>
+      <span>Climate Crisis: The 2025 Report</span> <span class="dot">·</span> <span>Why We Sleep Worse Now</span> <span class="dot">·</span>
+    </div>
+  </div>
+
+  <div class="hero-block">
+    <div class="featured-card">
+      <div class="feat-deco"></div>
+      <div class="feat-category">Cover Story</div>
+      <h2 class="feat-title">The Quiet Collapse of<br><em>Attention</em> in the Digital Age</h2>
+      <div class="feat-meta">
+        <span class="feat-author">Elena Marsh</span>
+        <span class="dot"></span>
+        <span>11 min read</span>
+        <span class="dot"></span>
+        <span>Apr 4, 2025</span>
+      </div>
+    </div>
+    <div class="side-stack">
+      <div class="side-card">
+        <div class="side-cat">Technology</div>
+        <div class="side-title">How Open-Source AI Changed Everything We Thought We Knew</div>
+        <div class="side-meta">Kai Osei · 7 min read</div>
+      </div>
+      <div class="side-card">
+        <div class="side-cat">Design</div>
+        <div class="side-title">Brutalism Isn't Dead — It Just Grew Up</div>
+        <div class="side-meta">Nara Jensen · 5 min read</div>
+      </div>
+      <div class="side-card">
+        <div class="side-cat">Science</div>
+        <div class="side-title">Psychedelics & the Grief Epidemic: A New Frontier in Mental Health</div>
+        <div class="side-meta">Dr. Amara O. · 9 min read</div>
+      </div>
+    </div>
+  </div>
+
+  <div class="main-layout">
+    <main>
+      <div class="articles-header">
+        <h2>Latest Articles</h2>
+        <div class="filter-tabs">
+          <button class="tab active">All</button>
+          <button class="tab">Tech</button>
+          <button class="tab">Design</button>
+          <button class="tab">Culture</button>
+        </div>
+      </div>
+
+      <div class="article-card">
+        <div>
+          <div class="a-cat">Technology</div>
+          <div class="a-title">The Programmers Who Refuse to Use AI — And Why They Might Be Right</div>
+          <div class="a-excerpt">As generative tools flood the industry, a growing cohort of developers is doubling down on craft. Are they Luddites, or visionaries?</div>
+          <div class="a-meta">
+            <span class="a-author">Jordan Taka</span>
+            <span>·</span>
+            <span>8 min read</span>
+            <span>·</span>
+            <span>Mar 30</span>
+          </div>
+        </div>
+        <div class="a-thumb">💻</div>
+      </div>
+
+      <div class="article-card">
+        <div>
+          <div class="a-cat">Design</div>
+          <div class="a-title">Why Your Brand Feels Generic (And What to Do About It)</div>
+          <div class="a-excerpt">The rise of AI-generated aesthetics has created a sea of sameness. Here's how the best brands are standing out again.</div>
+          <div class="a-meta">
+            <span class="a-author">Nara Jensen</span>
+            <span>·</span>
+            <span>6 min read</span>
+            <span>·</span>
+            <span>Mar 27</span>
+          </div>
+        </div>
+        <div class="a-thumb">🎨</div>
+      </div>
+
+      <div class="article-card">
+        <div>
+          <div class="a-cat">Culture</div>
+          <div class="a-title">The Great Unbundling: How Gen Z Consumes Everything Differently</div>
+          <div class="a-excerpt">Platforms, media, community — nothing looks the same. Here's a generation-defining shift that nobody fully mapped.</div>
+          <div class="a-meta">
+            <span class="a-author">Layla Huang</span>
+            <span>·</span>
+            <span>10 min read</span>
+            <span>·</span>
+            <span>Mar 22</span>
+          </div>
+        </div>
+        <div class="a-thumb">🌐</div>
+      </div>
+
+      <div class="article-card">
+        <div>
+          <div class="a-cat">Science</div>
+          <div class="a-title">What Three Hours in a Sensory Deprivation Tank Actually Does to Your Brain</div>
+          <div class="a-excerpt">Flotation therapy has moved from fringe to mainstream. But the science is more nuanced than the wellness crowd admits.</div>
+          <div class="a-meta">
+            <span class="a-author">Dr. Amara O.</span>
+            <span>·</span>
+            <span>7 min read</span>
+            <span>·</span>
+            <span>Mar 18</span>
+          </div>
+        </div>
+        <div class="a-thumb">🧠</div>
+      </div>
+
+      <div class="article-card">
+        <div>
+          <div class="a-cat">Technology</div>
+          <div class="a-title">The Case Against Productivity Culture — From Someone Who Used to Worship It</div>
+          <div class="a-excerpt">A former "deep work" evangelist rethinks the obsession with optimization, output, and the cost of never being idle.</div>
+          <div class="a-meta">
+            <span class="a-author">Marcus Cole</span>
+            <span>·</span>
+            <span>5 min read</span>
+            <span>·</span>
+            <span>Mar 14</span>
+          </div>
+        </div>
+        <div class="a-thumb">⏱️</div>
+      </div>
+    </main>
+
+    <aside class="sidebar">
+      <div class="sidebar-widget newsletter-widget">
+        <div class="widget-title">The Weekly Margin</div>
+        <p class="nl-sub">Ideas worth thinking about. Delivered to 48,000 readers every Sunday.</p>
+        <input type="email" class="nl-input" placeholder="your@email.com"/>
+        <button class="nl-btn">Subscribe — It's Free</button>
+      </div>
+
+      <div class="sidebar-widget">
+        <div class="widget-title">Top Reads This Week</div>
+        <div class="top-reads">
+          <div class="top-read">
+            <span class="top-num">1</span>
+            <div>
+              <div class="top-title">The Attention Collapse</div>
+              <div class="top-meta">Elena Marsh · 12.4k views</div>
+            </div>
+          </div>
+          <div class="top-read">
+            <span class="top-num">2</span>
+            <div>
+              <div class="top-title">Why Brutalism Grew Up</div>
+              <div class="top-meta">Nara Jensen · 9.1k views</div>
+            </div>
+          </div>
+          <div class="top-read">
+            <span class="top-num">3</span>
+            <div>
+              <div class="top-title">Gen Z & The Unbundling</div>
+              <div class="top-meta">Layla Huang · 7.8k views</div>
+            </div>
+          </div>
+          <div class="top-read">
+            <span class="top-num">4</span>
+            <div>
+              <div class="top-title">Programmers vs. AI</div>
+              <div class="top-meta">Jordan Taka · 6.2k views</div>
+            </div>
+          </div>
+        </div>
+      </div>
+
+      <div class="sidebar-widget">
+        <div class="widget-title">Browse Topics</div>
+        <div class="tags">
+          <a href="#" class="tag">Technology</a>
+          <a href="#" class="tag">Design</a>
+          <a href="#" class="tag">Culture</a>
+          <a href="#" class="tag">Science</a>
+          <a href="#" class="tag">AI</a>
+          <a href="#" class="tag">Productivity</a>
+          <a href="#" class="tag">Philosophy</a>
+          <a href="#" class="tag">Climate</a>
+          <a href="#" class="tag">Health</a>
+          <a href="#" class="tag">Economics</a>
+        </div>
+      </div>
+    </aside>
+  </div>
+
+  <footer>
+    <span>© 2025 The Margin. Independent media.</span>
+    <span>Code Odyssey · Project <a href="#">008</a> · Blog Homepage</span>
+  </footer>
+
+</body>
+</html>
