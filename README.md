@@ -101,8 +101,8 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 | 048 | [Notes App (LocalStorage)](https://notes-app-lake-five.vercel.app/) | LocalStorage API, data persistence, CRUD | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/p\Project-48) |
 | 049 | [Accordion Component](https://according-component.vercel.app/) | Toggle functionality, dynamic content, UI | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-49) |
 | 050 | [Tabs Component](https://tabcomponent.vercel.app/) | Tab switching, content display, navigation | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-50) |
-| 051 | Modal Popup | Overlay, show/hide logic, event handling | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-51) |
-| 052 | Image Slider | Image rotation, navigation, autoplay | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-52) |
+| 051 | Modal Popup | Overlay, show/hide logic, event handling | [![Working](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-51) |
+| 052 | Image Slider | Image rotation, navigation, autoplay | [![Working](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-52) |
 | 053 | Simple Carousel | Carousel logic, animations, controls | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-53) |
 | 054 | FAQ Toggle | Expand/collapse, dynamic content, icons | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-54) |
 | 055 | Star Rating Widget | Click handling, visual feedback, ratings | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-55) |
@@ -151,10 +151,10 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 | 092 | Search Bar UI | Search input, suggestions, autocomplete | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-92) |
 | 093 | Filter List App | Filtering logic, categories, search | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-93) |
 | 094 | Sortable List | Sorting algorithms, array methods, display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-94) |
-| 095 | Drag & Drop Demo | Drag API, drop zones, event handling | [![Working](https://img.shields.io/badge/Status-Working-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-95) |
-| 096 | Simple Dashboard UI | Dashboard layout, widgets, data cards | [![Working](https://img.shields.io/badge/Status-Working-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-96) |
+| 095 | [Drag & Drop Demo](https://drag-drop-pi-ten.vercel.app/) | Drag API, drop zones, event handling | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-95) |
+| 096 | [Simple Dashboard UI](https://dashboard-ui-five-kappa.vercel.app/) | Dashboard layout, widgets, data cards | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-96) |
 | 097 | [Portfolio v2](https://portfolio-v2-gules-nu.vercel.app/) | Enhanced portfolio, animations, projects | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-97) |
-| 098 | [Blog Page v2](https://blog-page-v2.vercel.app/) | Improved blog, categories, tags | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/yourusername/Project-98) |
+| 098 | [Blog Page v2](https://blog-page-v2.vercel.app/) | Improved blog, categories, tags | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-98) |
 | 099 | [Website Clone (Static)](https://website-clone-static.vercel.app/) | Replicate existing site, learning from real sites | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-99) |
 | 100 | [Mini Project Collection Page](https://miniprojectcollectionpage.vercel.app/) | Showcase all projects, gallery, navigation | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-100) |
 
@@ -171,6 +171,14 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 |----|--------------|------------------|--------|
 | 101 | [Weather App (API)](https://code-odessey-8ch6.vercel.app/) | Fetch API, async/await, API keys, data handling | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-101) |
 | 102 | [News App](https://weather-app-api-eight-lovat.vercel.app/) | News API integration, articles display, filtering | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-102) |
+| 103 | GitHub Profile Finder | GitHub API, user search, repo display | [![Working](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-103) |
+| 104 | Movie Search App | TMDb/OMDb API, search, movie details | [![Working](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-104) |
+| 105 | Country Info App | REST Countries API, flags, population data | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-105) |
+| 106 | Currency Converter | Exchange rate API, conversion logic, real-time | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-106) |
+| 107 | Stock Price Viewer | Stock API, charts, real-time data | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-107) |
+| 108 | Dictionary App | Dictionary API, definitions, pronunciation | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-108) |
+| 109 | Random User Generator | Random User API, profile cards, data display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-109) |
+| 110 | Recipe Finder | Recipe API, search, ingredients, instructions | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-110) |
 
 ---
 
@@ -254,18 +262,6 @@ This project exists thanks to all the amazing people who contribute! 🎉
 <a href="https://github.com/Debanga-06/Code-Odessey/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=Debanga-06/Code-Odessey" />
 </a>
-
-### 🎖️ Hall of Fame
-
-#### 🥇 Gold Contributors (10+ Projects)
-- **[@Jiban0507](https://github.com/Jiban-0507)** - 12 projects completed across all levels
-
-#### 🥈 Silver Contributors (5-9 Projects)
-- **[@ARPAN7797](https://github.com/ARPAN7797)** - 7 projects completed across all levels
-- **[@Debanga-06](https://github.com/Debanga-06)** - 5 projects completed across all levels
-
-#### 🥉 Bronze Contributors (1-4 Projects)
-- *Join the contributor list!*
 
 ### 💝 Special Thanks
 
