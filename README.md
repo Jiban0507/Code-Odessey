@@ -150,7 +150,7 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 | 091 | Notification Bell UI | Notification icon, dropdown, unread count | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-91) |
 | 092 | Search Bar UI | Search input, suggestions, autocomplete | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-92) |
 | 093 | Filter List App | Filtering logic, categories, search | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-93) |
-| 094 | Sortable List | Sorting algorithms, array methods, display | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-94) |
+| 094 | [Sortable List](https://sortable-list-sepia.vercel.app/) | Sorting algorithms, array methods, display | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/project-94) |
 | 095 | [Drag & Drop Demo](https://drag-drop-pi-ten.vercel.app/) | Drag API, drop zones, event handling | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-95) |
 | 096 | [Simple Dashboard UI](https://dashboard-ui-five-kappa.vercel.app/) | Dashboard layout, widgets, data cards | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-96) |
 | 097 | [Portfolio v2](https://portfolio-v2-gules-nu.vercel.app/) | Enhanced portfolio, animations, projects | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Beginner-Level/Project-97) |
@@ -171,7 +171,7 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 |----|--------------|------------------|--------|
 | 101 | [Weather App (API)](https://code-odessey-8ch6.vercel.app/) | Fetch API, async/await, API keys, data handling | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-101) |
 | 102 | [News App](https://weather-app-api-eight-lovat.vercel.app/) | News API integration, articles display, filtering | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-102) |
-| 103 | GitHub Profile Finder | GitHub API, user search, repo display | [![Working](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-103) |
+| 103 | [GitHub Profile Finder](https://github-finder-five-rho.vercel.app/) | GitHub API, user search, repo display | [![Completed](https://img.shields.io/badge/Status-Completed-green)](https://github.com/Debanga-06/Github-finder) |
 | 104 | Movie Search App | TMDb/OMDb API, search, movie details | [![Working](https://img.shields.io/badge/Status-Pending-yellow)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-104) |
 | 105 | Country Info App | REST Countries API, flags, population data | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-105) |
 | 106 | Currency Converter | Exchange rate API, conversion logic, real-time | [![Not Started](https://img.shields.io/badge/Status-Not%20Started-red)](https://github.com/Debanga-06/Code-Odessey/tree/main/Intermediate-Level/Project-106) |
@@ -197,8 +197,8 @@ For detailed contribution guidelines, please read our [CONTRIBUTING.md](CONTRIBU
 ## 📊 Progress Tracking
 
 ### Overall Progress
-- **Beginner Projects:** 56/100 completed
-- **Intermediate Projects:** 2/100 completed
+- **Beginner Projects:** 57/100 completed
+- **Intermediate Projects:** 3/100 completed
 - **Expert Projects:** 0/100 completed
 - **Advanced Expert Projects:** 0/100 completed
   
@@ -309,8 +309,8 @@ This repository showcases projects built with various technologies including:
 ## 📈 Project Statistics
 
 - **Total Projects**: 400+
-- **Beginner Projects**: Coming soon
-- **Intermediate Projects**: Coming soon
+- **Beginner Projects**: Ongoing
+- **Intermediate Projects**: Ongoing
 - **Expert Projects**: Coming soon
 - **Contributors**: [See all contributors](https://github.com/Debanga-06/Code-Odessey/graphs/contributors)
 
